@@ -1,0 +1,21 @@
+{
+  "accordhex": ["#fffec0", "#ee363b", "#bc4d10", "#eeddcc", "#e7d8ea", "#cc3300"],
+  "accords": ["vanilla", "sweet", "amber", "powdery", "musky", "warm spicy"],
+  "accordwidths": [100, 81.0897, 61.6945, 47.5739, 46.5568, 44.5937],
+  "daynight": ["day", "night"],
+  "img": "https://fimgs.net/mdimg/perfume/375x500.72607.jpg",
+  "likecats": ["love", "like", "ok", "dislike", "hate"],
+  "likes": [100, 57.7982, 28.7462, 9.78593, 2.44648],
+  "longcats": ["very weak", "weak", "moderate", "long lasting", "eternal"],
+  "longevity": [6, 28, 118, 97, 23],
+  "priceval": [64, 83, 83, 17, 14],
+  "ratinginfo": [4.22, 5, 650],
+  "seasoncats": ["winter", "spring", "summer", "fall"],
+  "seasons": [98.8189, 58.6614, 34.252, 100],
+  "sex": [146, 92, 50, 4, 4],
+  "sexcats": ["female", "more female", "unisex", "more male", "male"],
+  "sillage": [50, 160, 49, 13],
+  "sillagecats": ["intimate", "moderate", "strong", "enormous"],
+  "tod": [83.0709, 73.622],
+  "valuecats": ["way overpriced", "overpriced", "ok", "good value", "great value"]
+}
